@@ -1,0 +1,5 @@
+jobs/model/source/SourceTypeEnum.class
+jobs/model/source/DataSourceCSV.class
+jobs/model/source/DataSource.class
+jobs/model/Step.class
+jobs/model/Job.class
